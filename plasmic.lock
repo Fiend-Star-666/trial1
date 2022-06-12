@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "projectId": "pdGH2TXemmAgf7MfkSnkYp",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "_SMaVrjM8Af4T",
+          "checksum": "55c63c916280de334d095b5247efbbec"
+        },
+        {
+          "assetId": "pdGH2TXemmAgf7MfkSnkYp",
+          "type": "projectCss",
+          "checksum": "ea191bbe54318005265cf5e5787df9b5"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "y1S7t-4ytVJk",
+          "checksum": "e45241da0e7fd4bcbd7ac112c3a52c38"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "y1S7t-4ytVJk",
+          "checksum": "e45241da0e7fd4bcbd7ac112c3a52c38"
+        },
+        {
+          "type": "icon",
+          "assetId": "SSne1chNTq",
+          "checksum": "8f58d0fdea77ed40f670eaa4d5425ac2"
+        },
+        {
+          "type": "image",
+          "assetId": "U91dCUbQX7",
+          "checksum": "0e466faf73171ce4e0b965b94054903b"
+        },
+        {
+          "type": "image",
+          "assetId": "rkA0HnlYCh",
+          "checksum": "26e1ec9b7ba56bdc67826f533628f151"
+        },
+        {
+          "type": "image",
+          "assetId": "foTD6SV7BX",
+          "checksum": "c0d90017ed8ce87c57a73015e9f45130"
+        },
+        {
+          "type": "image",
+          "assetId": "ylfNvaJBV8",
+          "checksum": "62c520a282c533995e881ff0e91d51b8"
+        },
+        {
+          "type": "image",
+          "assetId": "H0YBbY5jSU",
+          "checksum": "79940b97161d86afcdf2984fb2cd7632"
+        },
+        {
+          "type": "image",
+          "assetId": "ozCYdVgsXR",
+          "checksum": "45e687416c923001eb1876b0feeda680"
+        },
+        {
+          "type": "image",
+          "assetId": "VgrlosS4DM",
+          "checksum": "6bf1c1ebc60c13de24d20401c01e9b40"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.182"
+}
